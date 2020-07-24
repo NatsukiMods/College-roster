@@ -3837,7 +3837,7 @@ PLAYER,PSU,RB,Journey Brown,Fr,68,220,4,,
 PLAYER,PSU,OL,Anthony Whigan,Fr,73,295,5,,
 PLAYER,PSU,OL,Caedan Wallace,Fr,73,295,5,,
 PLAYER,PSU,TE,Jonathan Holland,Jr,72,240,5,,
-PLAYER,PSU,QB,William Schiller,Fr,73,215,100,100,100,100,100,100,100
+PLAYER,PSU,QB,William Schiller,Fr,73,215,100,100,100,100,100,100,100,
 PLAYER,PITT,DL,Keyshon Camp,So,72,285,3,,
 PLAYER,PITT,S,Jazzee Stocker,Jr,70,195,4,,
 PLAYER,PITT,CB,Jason Pinnock,So,69,200,3,,
